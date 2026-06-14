@@ -1,0 +1,3 @@
+user=root
+password=Levitinha@2014
+dburl=jdbc:mysql://127.0.0.1:3306/coursejdbc?allowPublicKeyRetrieval=true&useSSL=false
